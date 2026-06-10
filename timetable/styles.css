@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+table {
+    width: 50%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border-radius: 10px;
+    background-color: white;
+}
+
+body{
+    background-color: blanchedalmond;
+}
