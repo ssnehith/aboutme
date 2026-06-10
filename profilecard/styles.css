@@ -1,0 +1,44 @@
+body {
+    background-color: lightblue;
+}
+
+.profile-card {
+    width: 350px;
+    background-color: lightyellow;
+    /* border: 3px solid darkblue; */
+    margin: 40px auto;
+    padding: 25px;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+.role {
+    color: purple;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.bio {
+    color: #333333;
+    font-size: 15px;
+}
+
+h3 {
+    color: darkblue;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+    background-color: lightblue;
+    margin: 8px;
+    padding: 8px;
+    border: 1px solid darkblue;
+}
+
