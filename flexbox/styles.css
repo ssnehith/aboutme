@@ -73,3 +73,45 @@ li{
     left: 50px;
     
 } 
+
+.flav{
+    display: flex;
+    gap: 20px;
+}
+
+.dfd{
+    background-image: url(./images/dfd.jpeg);
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    width: 33.3%;
+    position: relative;
+    text-align: center;
+    color: #541100;
+    font-size: 20px;
+    
+}
+
+.an{
+    background-image: url(./images/ad.jpeg);
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    width: 33.3%;
+    position: relative;
+    text-align: center;
+    color: #541100;
+    font-size: 20px;
+}
+
+.nuo{
+    background-image: url(./images/nuo.jpeg);
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    width: 33.3%;
+    position: relative;
+    text-align: center;
+    color: #541100;
+    font-size: 20px;
+}
