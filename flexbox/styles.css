@@ -49,3 +49,10 @@ li{
 .homepage a{
     text-decoration: none;
 }
+
+.banner{
+    background-image: url(https://www.creamstoneconcepts.com/images/banner.jpg);
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
