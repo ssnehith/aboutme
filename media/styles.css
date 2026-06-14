@@ -54,3 +54,9 @@ body{
     }
 
 }
+
+.card:hover{
+    background-color: brown;
+    color: aliceblue;
+    transform: scale(1.1);
+}
