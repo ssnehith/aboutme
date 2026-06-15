@@ -93,6 +93,8 @@ li{
 }
 .dfd:hover{
     transform: scale(1.1);
+        transition: 0.5s;
+
 }
 
 .an{
@@ -109,6 +111,7 @@ li{
 
 .an:hover{
     transform: scale(1.1);
+    transition: 0.5s;
 }
 
 .nuo{
@@ -125,6 +128,7 @@ li{
 
 .nuo:hover{
     transform: scale(1.1);
+    transition: 0.5s;
 }
 
 address{
