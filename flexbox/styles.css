@@ -29,6 +29,10 @@ h2{
     display: flex;
     gap: 20px;
     color: darksalmon;
+    /* padding-right: 30px; */
+    position: relative;
+    right: 30px;
+    top: 30px;
 }
 li{
     list-style: none;
@@ -36,18 +40,35 @@ li{
 
 .about a{
     text-decoration: none;
+
+}
+
+.about a:hover{
+    color: #ee448e;
 }
 
 .contact a{
     text-decoration: none;
 }
 
+.contact a:hover{
+    color: #ee448e;
+}
+
 .flavours a{
     text-decoration: none;
 }
 
-.homepage a{
+.flavours a:hover{
+    color: #ee448e;
+}
+
+.home a{
     text-decoration: none;
+}
+
+.home a:hover{
+    color: #ee448e;
 }
 
 .banner{
