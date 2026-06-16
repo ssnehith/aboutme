@@ -18,3 +18,20 @@ header p{
     display: flex;
     gap: 20px;
 }
+
+nav img{
+    width: 200px;
+}
+
+nav{
+    display: flex;
+    position: relative;
+    gap: 20px;
+}
+
+nav a{
+    position: relative;
+    top: 50px;
+    left:300px;
+    text-decoration-line: none;
+}
