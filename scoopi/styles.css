@@ -193,6 +193,10 @@ nav a:hover{
     color: palevioletred;
 }
 
+.icecreams div:hover{
+    background-color: rgb(197, 197, 134);
+}
+
 /**View All Flavors button**/
 .but-viewflav{
     text-align: center;
@@ -210,12 +214,6 @@ nav a:hover{
 
 
 /**About us section**/
-/* .aboutus{
-    background-image: url(./images/aboutus.png);
-    background-size: cover;
-    height: 100vh;
-} */
-
 .aboutus{
     background-image: url(./images/aboutus.png);
     background-size: cover;
@@ -285,6 +283,28 @@ nav a:hover{
     padding: 10px;
 }
 
+/**footer*/
+
+
+
+.social-media{
+    width: 20%;
+}
+
+.social-media img{
+    width:200px;
+    height: auto;
+}
+
+.right-img img{
+    width:200px;
+    height: auto;
+}
+
+footer{
+    display: flex;  
+    justify-content: space-evenly;
+}
 
 
 
