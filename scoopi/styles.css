@@ -285,7 +285,10 @@ nav a:hover{
 
 /**footer*/
 
-
+footer{
+    background-color: brown;
+    color: aliceblue;
+}
 
 .social-media{
     width: 20%;
@@ -294,6 +297,12 @@ nav a:hover{
 .social-media img{
     width:200px;
     height: auto;
+}
+
+.social-media p{
+    position: relative;
+    text-align: center;
+    top:-50px;
 }
 
 .right-img img{
