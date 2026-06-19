@@ -1,6 +1,4 @@
-/* body{
-    margin: 0;
-} */
+
 header{
     display: flex;
     justify-content: space-between;
@@ -23,10 +21,12 @@ header p{
     gap: 20px;
 }
 
+
 nav img{
     width: 200px;
 }
 
+@media screen and (max-width: 480px) {
 nav{
     display: flex;
     position: relative;
@@ -55,7 +55,7 @@ nav a:hover{
     color: brown;
     text-decoration-line: none;
 }
-
+}
 /*Hero Section*/
 
 .hero{
@@ -63,6 +63,8 @@ nav a:hover{
     background-size: cover;
     height: 100vh;
 }
+
+
 .hero-div{
     position: relative;
     top: 150px;
@@ -285,11 +287,6 @@ nav a:hover{
 
 /**footer*/
 
-footer{
-    background-color: brown;
-    color: aliceblue;
-}
-
 .social-media{
     width: 20%;
 }
@@ -313,7 +310,16 @@ footer{
 footer{
     display: flex;  
     justify-content: space-evenly;
+    background-color: brown;
+    color: aliceblue;
 }
+
+.right-img p{
+    position: relative;
+    text-align: center;
+    top:-50px;
+} 
+
 
 
 
