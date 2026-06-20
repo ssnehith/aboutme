@@ -306,10 +306,11 @@ nav a:hover{
 }
 
 footer{
-    display: flex;  
+    display: flex;
     justify-content: space-evenly;
     background-color: brown;
     color: aliceblue;
+    padding: 20px;
 }
 
 .right-img p{
