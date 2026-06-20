@@ -232,12 +232,6 @@ nav a:hover{
     font-size: 20px;
 }
 
-.aboutus-div {
-    position: relative;
-    left: 700px;
-    top: 100px;
-}
-
 .achievements{
     display: flex;
     gap: 30px;
